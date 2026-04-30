@@ -1,0 +1,1 @@
+Users can book hotels or transport services. They can see their booking history.
