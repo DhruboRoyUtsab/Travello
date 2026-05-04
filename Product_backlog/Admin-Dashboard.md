@@ -1,0 +1,1 @@
+Admin can manage users and system data. They can also handle complaints and monitor system.
