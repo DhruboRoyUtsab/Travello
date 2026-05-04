@@ -1,0 +1,1 @@
+Users can search places by location, budget, or rating. Results show useful details like price and rating.
