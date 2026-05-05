@@ -1,0 +1,1 @@
+Authority can see emergency (SOS) requests. They can send alerts and respond quickly.
