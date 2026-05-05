@@ -1,0 +1,1 @@
+System suggests places based on user preference. It helps users choose better travel options.

@@ -1,0 +1,1 @@
+Users can pay using different methods. System shows success or failure message.
